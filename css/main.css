@@ -461,7 +461,8 @@ button:focus {
     height: 100%;
     top: 0px;
     left: 0px;
-    background: #5533ff;
+    background: #6A5ACD;
+    /* background: #5533ff;*/
     background: linear-gradient(95deg, #5533ff 40%, #25ddf5 100%);
     -webkit-transform: skewY(-12deg);
     transform: skewY(-12deg);
