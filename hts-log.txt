@@ -1,0 +1,56 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 22 Dec 2020 12:55:53 at https://w5.foxdsgn.com/niko/black/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://w5.foxdsgn.com/niko/black/ -O1 "C:\My Web Sites\NewP" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:56:37	Warning: 	File not parsed, looks like binary: https://w5.foxdsgn.com/niko/black/wp-content/themes/niko/assets/css/webfonts/fontawesome-webfont.woff2?v=4.7.0
+12:56:37	Warning: 	File not parsed, looks like binary: https://w5.foxdsgn.com/niko/black/wp-content/themes/niko/assets/css/webfonts/Simple-Line-Icons.woff2?v=2.4.0
+12:56:37	Error: 	"Not Found" (404) at link https://w5.foxdsgn.com/niko/black/wp-content/themes/niko/assets/css/libs/mCSB_buttons.png (from https://w5.foxdsgn.com/niko/black/wp-content/themes/niko/assets/css/libs/jquery.mCustomScrollbar.css?ver=5.6)
+12:58:03	Error: 	"Unknown error" (524) at link https://w5.foxdsgn.com/niko/black/2019/02/26/a-guide-to-mri-scans/ (from https://w5.foxdsgn.com/niko/black/2019/02/)
+12:58:03	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=151
+12:58:03	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=151 to https://w5.foxdsgn.com/niko/black/contact-me/
+12:58:03	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=210
+12:58:03	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=210 to https://w5.foxdsgn.com/niko/black/my-works/
+12:58:09	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=307
+12:58:09	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=307 to https://w5.foxdsgn.com/niko/black/my-skills/
+12:58:09	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=2
+12:58:09	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=2 to https://w5.foxdsgn.com/niko/black/sample-page/
+12:58:09	Error: 	"Method Not Allowed" (405) at link https://w5.foxdsgn.com/niko/black/xmlrpc.php (from https://w5.foxdsgn.com/niko/black/sample-page/)
+12:58:09	Warning: 	Found for https://w5.foxdsgn.com/niko/black/wp-admin/
+12:58:09	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/wp-admin/ to https://w5.foxdsgn.com/niko/black/wp-login.php?redirect_to=https%3A%2F%2Fw5.foxdsgn.com%2Fniko%2Fblack%2Fwp-admin%2F&reauth=1
+12:58:10	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=402
+12:58:10	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=402 to https://w5.foxdsgn.com/niko/black/sample-page-2/
+12:58:10	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=1
+12:58:10	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=1 to https://w5.foxdsgn.com/niko/black/2019/06/26/hello-world/
+12:58:10	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=247
+12:58:10	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=247 to https://w5.foxdsgn.com/niko/black/2019/04/02/some-media-information-about-me/
+12:58:13	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=183
+12:58:13	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=183 to https://w5.foxdsgn.com/niko/black/2019/03/26/help-finding-information-online/
+12:58:13	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=180
+12:58:13	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=180 to https://w5.foxdsgn.com/niko/black/2019/03/26/download-anything-now-a-days/
+12:58:13	Error: 	"Unknown error" (524) at link https://w5.foxdsgn.com/niko/black/2019/01/26/party-jokes-startling-but-unnecessary/feed/ (from https://w5.foxdsgn.com/niko/black/2019/01/26/party-jokes-startling-but-unnecessary/)
+12:58:13	Error: 	"Unknown error" (524) at link https://w5.foxdsgn.com/niko/black/?p=174 (from https://w5.foxdsgn.com/niko/black/2019/01/26/party-jokes-startling-but-unnecessary/)
+12:58:13	Error: 	"Unknown error" (524) at link https://w5.foxdsgn.com/niko/black/portfolio/green-wall/feed/ (from https://w5.foxdsgn.com/niko/black/portfolio/green-wall/)
+12:58:13	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=213
+12:58:13	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=213 to https://w5.foxdsgn.com/niko/black/portfolio/green-wall/
+12:58:13	Error: 	"Unknown error" (524) at link https://w5.foxdsgn.com/niko/black/wp-admin/admin-ajax.php?action=niko_dynamic_css&post=213&ver=5.6 (from https://w5.foxdsgn.com/niko/black/portfolio/green-wall/)
+12:58:13	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=222
+12:58:13	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=222 to https://w5.foxdsgn.com/niko/black/portfolio/grey-orchidey/
+12:58:13	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=226
+12:58:13	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=226 to https://w5.foxdsgn.com/niko/black/portfolio/broken-head/
+12:58:13	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=224
+12:58:13	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=224 to https://w5.foxdsgn.com/niko/black/portfolio/green-end/
+12:58:13	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=230
+12:58:13	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=230 to https://w5.foxdsgn.com/niko/black/portfolio/green-yupi/
+12:58:13	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=228
+12:58:13	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=228 to https://w5.foxdsgn.com/niko/black/portfolio/oxyde/
+12:58:13	Warning: 	Moved Permanently for https://w5.foxdsgn.com/niko/black/?p=232
+12:58:13	Warning: 	File has moved from https://w5.foxdsgn.com/niko/black/?p=232 to https://w5.foxdsgn.com/niko/black/portfolio/emerald/
+13:00:05	Error: 	"Unknown error" (524) at link https://w5.foxdsgn.com/niko/black/wp-admin/css/login.min.css?ver=5.6 (from https://w5.foxdsgn.com/niko/black/wp-login.php?redirect_to=https%3A%2F%2Fw5.foxdsgn.com%2Fniko%2Fblack%2Fwp-admin%2F%26reauth=1)
+13:00:05	Error: 	"Unknown error" (524) at link https://w5.foxdsgn.com/niko/black/wp-includes/js/zxcvbn-async.min.js?ver=1.0 (from https://w5.foxdsgn.com/niko/black/wp-login.php?redirect_to=https%3A%2F%2Fw5.foxdsgn.com%2Fniko%2Fblack%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 12 seconds : 193 links scanned, 166 files written (5479376 bytes overall) [2897499 bytes received at 11498 bytes/sec], 3975790 bytes transferred using HTTP compression in 104 files, ratio 29%, 17.5 requests per connection
+(9 errors, 36 warnings, 0 messages)

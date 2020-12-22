@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+w5.foxdsgn.com	TRUE	/niko/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+.foxdsgn.com	TRUE	/	FALSE	1999999999	__cfduid	d5f725b35acac3c5bd3a68b3b3006b9651608634575
+w5.foxdsgn.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+w5.foxdsgn.com	TRUE	/	FALSE	1999999999	cf_ob_info	524:60595429efb6ffe0:VNO
+w5.foxdsgn.com	TRUE	/	FALSE	1999999999	cf_use_ob	0
+
